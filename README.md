@@ -1,0 +1,1 @@
+Just copy `.env.example` and rename it to `.env`, fill in your bot credentials, and then, you're ready to use it
